@@ -33,7 +33,7 @@ promiseData
 
 isValid = false;
 
-// async await 2
+// async await
 async function getDataWithAsync(isValid) {
   try {
     //get the resolve data
